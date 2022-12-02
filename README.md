@@ -18,7 +18,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=johannesrathgeb&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/johannesrathgeb/johannesrathgeb/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/johannesrathgeb/johannesrathgeb/blob/output/github-contribution-grid-snake.svg)
 ###

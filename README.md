@@ -4,6 +4,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johannesrathgeb&theme=tokyonight&hide_border=true)<br/>
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johannesrathgeb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johannesrathgeb) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johannesrathgeb) 
 
 [![](https://visitcount.itsvg.in/api?id=johannesrathgeb&icon=5&color=0)](https://visitcount.itsvg.in)
